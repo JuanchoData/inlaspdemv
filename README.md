@@ -1,4 +1,4 @@
-# inlaspdemv
+# INLA-SPDE and mesic vegetation
 Code INLA-SPDE to explain changes of mesic vegetation 
 
 ---
