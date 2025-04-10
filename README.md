@@ -9,6 +9,14 @@ Here’s a clear and concise explanation for your README file on GitHub to help 
 This project uses R and the [INLA](https://www.r-inla.org/) package to prepare and model spatial data of mesic vegetation conditions across four different years (2004, 2009, 2014, 2019). It includes raster data extraction, covariate standardization, and mesh generation for spatial modeling using the SPDE approach. This analysis supports understanding the spatial patterns of mesic vegetation in relation to precipitation, temperature, and land tenure.
 
 ---
+## 📦 Required Data
+
+You can download the images in those following links. 
+Precipitation and temperature: https://code.earthengine.google.com/6649b7d5bd1fb2088b7ede64ba9d3b16
+Mesic vegetation proportion: https://code.earthengine.google.com/a36833e5d2d99b1002108096e8de0193
+Land Tenure: https://code.earthengine.google.com/3add7ddef9fb84b11706ec5871e6c379
+
+
 
 ## 📦 Required Packages
 
