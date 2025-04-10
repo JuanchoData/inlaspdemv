@@ -1,6 +1,5 @@
 # inlaspdemv
 Code INLA-SPDE to explain changes of mesic vegetation 
-Here’s a clear and concise explanation for your README file on GitHub to help users understand what your R script does and how they can use it. You can copy-paste or adapt it as needed:
 
 ---
 
